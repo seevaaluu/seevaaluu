@@ -1,7 +1,21 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Sergio Vargas</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-vargas-luna-0ab587104/">LinkedIn</a> •
+  <a href="seevaaluu.com">Website</a>
+</p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=seevaaluu))
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+---
+✨ I'm a software engineer with more than 4 years of experience. I'm dedicated to Web programming, self-taught and I like to face challenges
+new, get out of my comfort zone 
+
+I love sharing my knowledge with others, I'm Backend Developer Expert at Laravel as well as I have experience in frontend development with Vue, within my skills is the management of servers with AWS
+
+
+### Skills
+- 👨‍💻 TypeScript, JavaScript, PHP.
+- ⚙️ React, Vue, Laravel
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, Mongo, GraphQL
 
 <!--
 **seevaaluu/seevaaluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
