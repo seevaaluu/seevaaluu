@@ -9,7 +9,7 @@ I'm a software developer with more than 4 years of experience. I'm dedicated to 
 *   🌍  I'm based in Durango, Mexico
 *   ✉️  You can contact me at [seevaaluu@gmail.com](mailto:seevaaluu@gmail.com)
 *   🚀  I'm currently working on [Virtua Mx](http://virtua.mx)
-*   🧠  I'm learning React Native and Flutter
+*   🧠  I'm learning React Native, Flutter and Blockchain
 
 ### Skills
 <p align="left">
