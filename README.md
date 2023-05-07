@@ -10,6 +10,7 @@ I'm a software developer with more than 4 years of experience. I'm dedicated to 
 *   ✉️  You can contact me at [seevaaluu@gmail.com](mailto:seevaaluu@gmail.com)
 *   🚀  I'm currently working on [Virtua Mx](http://virtua.mx)
 *   🧠  I'm learning React Native, Flutter and Blockchain
+*   🤖  At this moment, studying a master's degree in Artificial Intelligence
 
 ### Skills
 <p align="left">
